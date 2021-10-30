@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mike0x3
-- 👀 I’m interested in python
-- 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on web developing
+- 👀 I’m interested in swift
+- 🌱 I’m currently learning ios development
 - 📫 How to reach me t.me/phausto
 
 <!---
